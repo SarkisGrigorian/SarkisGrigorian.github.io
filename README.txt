@@ -1,6 +1,3 @@
-These files were transferred from school github. Please follow instructions below to access game. 
-
-
 ---------------------------------------------Software Instructions---------------------------------------------
 
 In order to play the HTML5 Tower Defense game, there are two different ways of starting the game. Before 
@@ -11,7 +8,7 @@ at https://support.google.com/chrome/answer/95414.
 ---------------------------------------------First Method (easiest)---------------------------------------------
 
 Ensure that you have a stable internet connection. 
-Using your Chrome browser, visit https://grigorisosu.github.io/ 
+Using your Chrome browser, visit https://SarkisGrigorian.github.io/ 
 
 ---------------------------------------------Second Method---------------------------------------------
 
