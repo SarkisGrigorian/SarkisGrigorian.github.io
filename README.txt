@@ -81,9 +81,3 @@ Winning or losing will trigger the game to present the user with a final screen.
 screen along with stats from the game that include their final currency count, the amount of towers of each type they placed, and 
 the number of times they upgraded each of those towers. 
 
-If you would like assistance with winning the game, although winning is not guaranteed as timing could heavily matter in certain 
-areas, recorded strategies used to defeat each of the maps can be found in the following links:
-
-Easy Map: https://www.youtube.com/watch?v=O3nXVtx1rJY 
-Medium Map: https://www.youtube.com/watch?v=hP2exbO42jY 
-Hard Map: https://www.youtube.com/watch?v=Ml9ZIx3JzMo 
