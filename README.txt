@@ -1,3 +1,6 @@
+These files were transferred from school github. Please follow instructions below to access game. 
+
+
 ---------------------------------------------Software Instructions---------------------------------------------
 
 In order to play the HTML5 Tower Defense game, there are two different ways of starting the game. Before 
